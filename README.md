@@ -21,7 +21,6 @@ Follow the link for more information: [http://c3js.org](http://c3js.org/)
 import { initC3 } from "https://code4fukui.github.io/c3-es/c3-es.js";
 
 const c3 = initC3(window);
-console.log(c3);
 
 const chart = c3.generate({
   bindto: '#chart',

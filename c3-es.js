@@ -7,7 +7,8 @@ export const initC3 = (window) => {
 
   //<link href="./c3.css" rel="stylesheet">
   const link = window.document.createElement("link");
-  link.href = "./c3.css";
+  //link.href = "./c3.css";
+  link.href = "https://code4fukui.github.io/c3-es/c3.css";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 

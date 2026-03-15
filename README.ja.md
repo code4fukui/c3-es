@@ -32,7 +32,7 @@ const chart = c3.generate({
 ```
 
 ## ドキュメント
-- [Getting Started](http://c3js.org/gettingstarted.html)
+- [Getting Started](http://c3js.org/gettingstarted.html) 
 - [Examples](http://c3js.org/examples.html)
 - [API Reference](https://c3js.org/reference.html)
 
